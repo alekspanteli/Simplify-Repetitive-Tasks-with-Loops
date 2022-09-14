@@ -11,11 +11,11 @@
 // }
 
 
-let counter = 0;
+// let counter = 0;
 
-do {
-  counter +=1;
-  console.log(counter);
-}
+// do {
+//   counter +=1;
+//   console.log(counter);
+// }
 
-while (counter < 10);
+// while (counter < 10);
