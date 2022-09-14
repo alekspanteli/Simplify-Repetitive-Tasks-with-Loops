@@ -11,6 +11,8 @@
 // }
 
 
+// Use do while loop when we want to execute only once
+
 // let counter = 0;
 
 // do {
